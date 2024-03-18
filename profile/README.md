@@ -11,7 +11,7 @@ We offer a wide range of embedded systems design and development services, inclu
 Hardware design :computer: </br>
 Software development :floppy_disk: </br>
 Firmware development :gear: </br>
-PCB design :green_circuit_board: </br>
+PCB design ⚡⚡ </br>
 Prototyping :test_tube: </br>
 Testing :microscope: </br>
 Manufacturing :factory: </br>
