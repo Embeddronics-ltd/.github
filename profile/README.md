@@ -8,23 +8,35 @@ Services:
 
 We offer a wide range of embedded systems design and development services, including:
 
-Hardware design :computer:
-Software development :floppy_disk:
-Firmware development :gear:
-PCB design :green_circuit_board:
-Prototyping :test_tube:
-Testing :microscope:
-Manufacturing :factory:
+Hardware design :computer: </br>
+Software development :floppy_disk: </br>
+Firmware development :gear: </br>
+PCB design :green_circuit_board: </br>
+Prototyping :test_tube: </br>
+Testing :microscope: </br>
+Manufacturing :factory: </br>
 We can help you with every aspect of your embedded systems project, from the initial concept to the final product.
 
 Why Choose Embeddronics?
 
 There are many reasons to choose Embeddronics for your embedded systems design and development needs. Here are just a few:
 
-Experience: Our team of engineers has over 10 years of experience in the embedded systems industry. :white_check_mark:
+Experience: 
+
+Our team of engineers has over 10 years of experience in the embedded systems industry. :white_check_mark:
+
 Expertise: We have a deep understanding of the latest embedded technologies, and we are constantly learning and innovating. :bulb:
-Quality: We are committed to providing our clients with the highest quality products and services. :star:
-Customer service: We are dedicated to providing our clients with the best possible customer service. :headphones:
+
+Quality: 
+
+We are committed to providing our clients with the highest quality products and services. :star:
+
+
+Customer service:
+
+We are dedicated to providing our clients with the best possible customer service. :headphones:
+
+
 Contact Us
 
 If you are interested in learning more about our services, please contact us today. We would be happy to discuss your project needs and provide you with a free consultation.
