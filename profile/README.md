@@ -1,21 +1,22 @@
 
 <img src="https://www.embeddronics.com/wp-content/uploads/2024/01/embedronic-logo-1-2048x778.png">
 
-About Embeddronics
+### About Embeddronics
 
 Embeddronics is a leading provider of embedded systems design and development services. We specialize in helping our clients bring their innovative ideas to life, from concept to production. Our team of experienced engineers has a deep understanding of the latest embedded technologies, and we are committed to providing our clients with the highest quality products and services.
 
-Services:
+# Services:
 
 We offer a wide range of embedded systems design and development services, including:
 
-Hardware design :computer: </br>
+```Hardware design :computer: </br>
 Software development :floppy_disk: </br>
 Firmware development :gear: </br>
 PCB design ⚡⚡ </br>
 Prototyping :test_tube: </br>
 Testing :microscope: </br>
 Manufacturing :factory: </br>
+```
 We can help you with every aspect of your embedded systems project, from the initial concept to the final product.
 
 # Why Choose Embeddronics?
