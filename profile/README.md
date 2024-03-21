@@ -1,6 +1,6 @@
 
 <img src="https://www.embeddronics.com/wp-content/uploads/2024/01/embedronic-logo-1-2048x778.png">
-## Hi there 👋
+# Hi there 👋
 
 About Embeddronics
 
@@ -19,11 +19,11 @@ Testing :microscope: </br>
 Manufacturing :factory: </br>
 We can help you with every aspect of your embedded systems project, from the initial concept to the final product.
 
-Why Choose Embeddronics?
+# Why Choose Embeddronics?
 
 There are many reasons to choose Embeddronics for your embedded systems design and development needs. Here are just a few:
 
-Experience: 
+# Experience: 
 
 Our team of engineers has over 10 years of experience in the embedded systems industry. :white_check_mark:
 
