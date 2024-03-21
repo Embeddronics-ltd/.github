@@ -26,19 +26,19 @@ There are many reasons to choose Embeddronics for your embedded systems design a
 
 Our team of engineers has over 10 years of experience in the embedded systems industry. :white_check_mark:
 
-Expertise: We have a deep understanding of the latest embedded technologies, and we are constantly learning and innovating. :bulb:
+# Expertise: We have a deep understanding of the latest embedded technologies, and we are constantly learning and innovating. :bulb:
 
-Quality: 
+# Quality: 
 
 We are committed to providing our clients with the highest quality products and services. :star:
 
 
-Customer service:
+# Customer service:
 
 We are dedicated to providing our clients with the best possible customer service. :headphones:
 
 
-Contact Us
+# Contact Us
 
 If you are interested in learning more about our services, please contact us today. We would be happy to discuss your project needs and provide you with a free consultation.
 
