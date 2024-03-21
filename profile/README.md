@@ -1,3 +1,5 @@
+
+<img src="https://www.embeddronics.com/wp-content/uploads/2024/01/embedronic-logo-1-2048x778.png">
 ## Hi there 👋
 
 About Embeddronics
