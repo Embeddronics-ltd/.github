@@ -45,7 +45,7 @@ If you are interested in learning more about our services, please contact us tod
 
 
 [![Twitter](https://example.com/twitter.png)](https://twitter.com/embeddronics)
-[![Facebook]((https://github.com/Embeddronics-ltd/.github/blob/main/profile/facebook.png))](https://www.facebook.com/profile.php?id=61555721140037&mibextid=ZbWKwL)
+[![Facebook](https://github.com/Embeddronics-ltd/.github/blob/main/profile/facebook.png)](https://www.facebook.com/profile.php?id=61555721140037&mibextid=ZbWKwL)
 [![Instagram](https://example.com/instagram.png)](https://www.instagram.com/embeddronics)
 [![Linkedin](https://example.com/instagram.png)]([https://www.instagram.com/embeddronics](https://www.linkedin.com/company/embeddronicsltd/))
 [![Email](https://example.com/email.png)](mailto:info@embeddronics.com)
