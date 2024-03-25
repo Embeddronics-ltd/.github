@@ -42,6 +42,7 @@ We are dedicated to providing our clients with the best possible customer servic
 # Contact Us
 
 If you are interested in learning more about our services, please contact us today. We would be happy to discuss your project needs and provide you with a free consultation.
+![image](https://github.com/Embeddronics-ltd/.github/assets/46509741/1e2e6364-2f7c-4dcc-afdd-dca043752401)
 
 
 [![Twitter](https://example.com/twitter.png)](https://twitter.com/embeddronics)
