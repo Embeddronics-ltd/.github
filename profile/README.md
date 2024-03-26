@@ -44,10 +44,10 @@ We are dedicated to providing our clients with the best possible customer servic
 If you are interested in learning more about our services, please contact us today. We would be happy to discuss your project needs and provide you with a free consultation.
 
 
-[![Twitter](https://github.com/Embeddronics-ltd/.github/blob/main/profile/twitter.png)](https://twitter.com/embeddronics) &nbsp
-[![Facebook](https://github.com/Embeddronics-ltd/.github/blob/main/profile/facebook.png)](https://www.facebook.com/profile.php?id=61555721140037&mibextid=ZbWKwL) &nbsp
-[![Instagram](https://github.com/Embeddronics-ltd/.github/blob/main/profile/instagram.png)](https://www.instagram.com/embeddronics) &nbsp
-[![Linkedin](https://github.com/Embeddronics-ltd/.github/blob/main/profile/linkedin.png)]([https://www.instagram.com/embeddronics](https://www.linkedin.com/company/embeddronicsltd/)) &nbsp
-[![Email](https://github.com/Embeddronics-ltd/.github/blob/main/profile/mail.png)](mailto:info@embeddronics.com) &nbsp
+[![Twitter](https://github.com/Embeddronics-ltd/.github/blob/main/profile/twitter.png)](https://twitter.com/embeddronics)     
+[![Facebook](https://github.com/Embeddronics-ltd/.github/blob/main/profile/facebook.png)](https://www.facebook.com/profile.php?id=61555721140037&mibextid=ZbWKwL)   
+[![Instagram](https://github.com/Embeddronics-ltd/.github/blob/main/profile/instagram.png)](https://www.instagram.com/embeddronics)   
+[![Linkedin](https://github.com/Embeddronics-ltd/.github/blob/main/profile/linkedin.png)]([https://www.instagram.com/embeddronics](https://www.linkedin.com/company/embeddronicsltd/))   
+[![Email](https://github.com/Embeddronics-ltd/.github/blob/main/profile/mail.png)](mailto:info@embeddronics.com)   
 [![Website](https://github.com/Embeddronics-ltd/.github/blob/main/profile/web.png)](https://www.embeddronics.com/)
 
